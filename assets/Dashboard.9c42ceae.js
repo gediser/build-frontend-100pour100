@@ -1,0 +1,1 @@
+import{_ as t}from"./PageComponent.acd1bbc4.js";import{o as e,c as o,w as a,a as s}from"./index.e6c525bd.js";const r=s("Content goes here"),f={setup(c){return(_,n)=>(e(),o(t,{title:"Dashboard"},{default:a(()=>[r]),_:1}))}};export{f as default};
