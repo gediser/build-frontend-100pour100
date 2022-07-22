@@ -1,0 +1,1 @@
+import{_ as t,o as r,b as s,r as o}from"./index.59f6796b.js";const n={},c={class:"flex items-center justify-between py-3 px-5 bg-red-500 text-white rounded"};function a(e,_){return r(),s("div",c,[o(e.$slots,"default")])}var l=t(n,[["render",a]]);export{l as A};
